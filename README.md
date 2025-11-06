@@ -1,5 +1,6 @@
-* <img width="1387" height="774" alt="image" src="https://github.com/user-attachments/assets/2ff63e14-abdf-4337-a056-03dc422f41bf" />
 # Sales Overview Dashboard (Microsoft Power BI)
+* <img width="1387" height="774" alt="image" src="https://github.com/user-attachments/assets/2ff63e14-abdf-4337-a056-03dc422f41bf" />
+
 
 ## 📊 Overview
 
