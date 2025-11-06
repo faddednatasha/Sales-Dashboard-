@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Overview Dashboard</title>
+    <style>
+        /* CSS for a full-screen, responsive embed */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* Prevent double scrollbars */
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0; /* Light background */
+        }
+        .dashboard-container {
+            width: 100%;
+            height: 100%;
+        }
+        .dashboard-iframe {
+            border: none;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <iframe 
+            title="Sales Overview Dashboard"
+            class="dashboard-iframe"
+            src="https://app.powerbi.com/reportEmbed?reportId=dfebab34-b115-446d-a1eb-116ad896ae92&autoAuth=true&ctid=b6041fd2-6388-471d-9155-da2d237998d0" 
+            allowFullScreen="true">
+        </iframe>
+    </div>
+</body>
+</html>
