@@ -25,7 +25,3 @@ The analysis is based on a single dataset:
 * **Data Analysis & Visualization:** Microsoft Power BI Desktop
 * **Data Storage/Source:** CSV format (Original file: `Sales Overview Data.xlsx - Sales Data.csv`)
 * **Version Control:** Git & GitHub
-
-## 📂 Repository Structure
-
-The repository is structured to keep all project files organized:
